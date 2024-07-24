@@ -1,4 +1,10 @@
-# Weather App
+
+#WEATHER FORECAST APP
+
+Name :- Aniket Gupta 
+ID :- CT6WTD55709
+Domain :- Web Development 
+Duration :- July to September 2024
 
 ## Description
 
